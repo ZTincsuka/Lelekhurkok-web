@@ -1,2 +1,2 @@
-# Lélekhurkok-web
+# Lelekhurkok-web
 Családállítás
